@@ -1,51 +1,55 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="140" y1="40" x2="1140" y2="600" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#16090B"/>
-      <stop offset="0.55" stop-color="#250B10"/>
+    <linearGradient id="bg" x1="180" y1="40" x2="1110" y2="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#140608"/>
+      <stop offset="0.58" stop-color="#24070C"/>
       <stop offset="1" stop-color="#0D0D10"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FF6B7A"/>
-      <stop offset="1" stop-color="#C21733"/>
+    <linearGradient id="primary" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6A7A"/>
+      <stop offset="1" stop-color="#C3002F"/>
     </linearGradient>
-    <linearGradient id="line" x1="220" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF5A6C"/>
-      <stop offset="1" stop-color="#7A1623"/>
+    <linearGradient id="primarySoft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A98"/>
+      <stop offset="1" stop-color="#7E1025"/>
     </linearGradient>
-    <filter id="softBlur" x="0" y="0" width="1280" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="56"/>
+    <filter id="soft" x="0" y="0" width="1280" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="50"/>
     </filter>
   </defs>
 
   <rect width="1280" height="640" rx="34" fill="url(#bg)"/>
 
-  <g opacity="0.42" filter="url(#softBlur)">
-    <circle cx="1010" cy="122" r="126" fill="#C21733"/>
-    <circle cx="1136" cy="484" r="118" fill="#5A101B"/>
+  <g opacity="0.45" filter="url(#soft)">
+    <circle cx="1036" cy="128" r="118" fill="#D2143A"/>
+    <circle cx="1118" cy="468" r="122" fill="#701122"/>
   </g>
 
-  <path d="M979 104L1081 164L1042 286H916L877 164L979 104Z" fill="#B71C35" fill-opacity="0.16" stroke="#E4475C" stroke-width="2"/>
-  <path d="M979 140L1028 169L1006 240H952L930 169L979 140Z" fill="#FF5A6C" fill-opacity="0.14"/>
+  <path d="M820 0H1280V244L1034 404L820 276V0Z" fill="#17090D" opacity="0.9"/>
+  <path d="M948 88L1082 164L1038 324L858 324L814 164L948 88Z" fill="#8E1730"/>
+  <path d="M948 114L1056 175L1022 299L874 299L840 175L948 114Z" fill="url(#primary)"/>
+  <path d="M948 158L995 272H958L947 239H903L892 272H856L904 158H948ZM940 214L925 182L910 214H940Z" fill="#FFF5F6"/>
 
-  <line x1="150" y1="206" x2="652" y2="206" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
-  <line x1="150" y1="470" x2="1110" y2="470" stroke="#34131A" stroke-width="1"/>
+  <path d="M0 560L302 432H553L760 512L1040 468H1280V640H0V560Z" fill="#0B0B0E" opacity="0.9"/>
+  <path d="M0 542L284 430H520L730 506L1036 462H1280" stroke="#4A121E" stroke-width="2" opacity="0.9"/>
 
-  <text x="150" y="188" fill="#FF7585" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">ANGULAR FRONTEND ENGINEERING</text>
-  <text x="150" y="298" fill="#F8F5F4" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="700">BASUH</text>
-  <text x="150" y="346" fill="#E7CFD2" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Frontend Architect · Angular · TypeScript · Scalable UI Systems</text>
-  <text x="150" y="414" fill="#BFA8AC" font-family="Segoe UI, Arial, sans-serif" font-size="24">Building clean interfaces, robust architecture and product-focused web experiences.</text>
+  <text x="150" y="184" fill="#FF7C8A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">ANGULAR-FIRST FRONTEND ENGINEERING</text>
+  <rect x="150" y="204" width="510" height="6" rx="3" fill="url(#primary)"/>
 
-  <rect x="150" y="508" width="168" height="42" rx="21" fill="#311116" stroke="#69303A"/>
-  <text x="182" y="536" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Angular DNA</text>
+  <text x="150" y="300" fill="#FFF6F7" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700">BASUH</text>
+  <text x="150" y="350" fill="#E9D1D5" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="500">Angular Developer · TypeScript · Frontend Architecture · Scalable UI</text>
+  <text x="150" y="418" fill="#C5A9AF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Designing robust products with Angular foundations, clean structure and modern delivery practices.</text>
 
-  <rect x="334" y="508" width="170" height="42" rx="21" fill="#311116" stroke="#69303A"/>
-  <text x="362" y="536" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Enterprise UI</text>
+  <rect x="150" y="500" width="168" height="42" rx="21" fill="#341017" stroke="#7C2435"/>
+  <text x="184" y="528" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Angular DNA</text>
 
-  <rect x="520" y="508" width="168" height="42" rx="21" fill="#311116" stroke="#69303A"/>
-  <text x="556" y="536" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">AI Products</text>
+  <rect x="334" y="500" width="185" height="42" rx="21" fill="#341017" stroke="#7C2435"/>
+  <text x="367" y="528" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Component Systems</text>
 
-  <text x="878" y="346" fill="#FF8692" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">FOCUS</text>
-  <text x="878" y="388" fill="#F8F5F4" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Modern Frontend</text>
-  <text x="878" y="424" fill="#D8C4C7" font-family="Segoe UI, Arial, sans-serif" font-size="22">Architecture, DX, testing, delivery.</text>
+  <rect x="535" y="500" width="170" height="42" rx="21" fill="#341017" stroke="#7C2435"/>
+  <text x="568" y="528" fill="#FFF3F4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Enterprise UI</text>
+
+  <text x="854" y="388" fill="#FF95A0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">CORE FOCUS</text>
+  <text x="854" y="430" fill="#FFF4F5" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Modern Angular Products</text>
+  <text x="854" y="468" fill="#D9BFC4" font-family="Segoe UI, Arial, sans-serif" font-size="22">Architecture, DX, testing and maintainability.</text>
 </svg>
