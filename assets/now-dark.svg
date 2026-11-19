@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Now: learning, building and sharing around applied AI and software architecture. Principles: simple over clever, tested over assumed, shipped over perfect.">
+  <rect x="1" y="1" width="1198" height="228" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <text x="64" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="17" fill="#58A6FF">$ now</text>
+  <text x="64" y="112" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#E6EDF3">Learning, building and sharing</text>
+  <text x="64" y="144" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#E6EDF3">around applied AI and</text>
+  <text x="64" y="176" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#E6EDF3">software architecture.</text>
+  <line x1="620" y1="48" x2="620" y2="182" stroke="#30363D" stroke-width="1.5"/>
+  <text x="668" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="17" fill="#58A6FF">$ cat principles.txt</text>
+  <text x="668" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" fill="#58A6FF">›</text>
+  <text x="692" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" font-weight="400" fill="#E6EDF3">Simple over clever.</text>
+  <text x="668" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" fill="#58A6FF">›</text>
+  <text x="692" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" font-weight="400" fill="#E6EDF3">Tested over assumed.</text>
+  <text x="668" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" fill="#58A6FF">›</text>
+  <text x="692" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="18" font-weight="400" fill="#E6EDF3">Shipped over perfect.</text>
+</svg>

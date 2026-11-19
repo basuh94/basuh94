@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="About: software architecture, applied AI and agents, full-stack">
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <text x="64" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="17" fill="#58A6FF">$ cat about.md</text>
+  <text x="64" y="112" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#E6EDF3">I'm a software engineer who builds maintainable systems that actually ship.</text>
+  <text x="64" y="144" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#E6EDF3">I care about clear architecture, solid foundations and software people use.</text>
+  <rect x="64" y="178" width="344" height="140" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="88" y="204" width="10" height="10" rx="2" fill="#58A6FF"/>
+  <text x="108" y="214" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E6EDF3">Software architecture</text>
+  <text x="88" y="248" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">Clean and hexagonal design,</text>
+  <text x="88" y="271" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">modular systems and decisions</text>
+  <text x="88" y="294" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">that age well.</text>
+  <rect x="428" y="178" width="344" height="140" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="452" y="204" width="10" height="10" rx="2" fill="#58A6FF"/>
+  <text x="472" y="214" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E6EDF3">Applied AI &amp; agents</text>
+  <text x="452" y="248" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">LLM-powered products and</text>
+  <text x="452" y="271" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">agentic workflows, kept reliable</text>
+  <text x="452" y="294" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">with automated guardrails.</text>
+  <rect x="792" y="178" width="344" height="140" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="816" y="204" width="10" height="10" rx="2" fill="#58A6FF"/>
+  <text x="836" y="214" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E6EDF3">Full-stack</text>
+  <text x="816" y="248" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">From interfaces to APIs</text>
+  <text x="816" y="271" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#8B949E">and data, end to end.</text>
+</svg>

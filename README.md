@@ -1,36 +1,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-  <img src="assets/hero-light.svg" alt="BASUH — Software Engineer" width="100%" />
+  <img src="assets/hero-light.svg" alt="BASUH — Software Engineer. Architecture, applied AI, full-stack." width="100%" />
 </picture>
 
-### About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+  <img src="assets/about-light.svg" alt="About: I'm a software engineer who builds maintainable systems that actually ship. Focus areas: software architecture, applied AI and agents, full-stack." width="100%" />
+</picture>
 
-I'm a software engineer who builds maintainable systems that actually ship.
-I care about clear architecture, solid foundations and software people use.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-light.svg" alt="Stack: TypeScript, JavaScript, Python, C#, Angular, React, Vite, Node.js, .NET, Vitest, Playwright, CI/CD, LLMs, AI agents, MCP, Skills." width="100%" />
+</picture>
 
-- **Software architecture** — clean and hexagonal design, modular systems, decisions that age well.
-- **Applied AI & agents** — LLM-powered products and agentic workflows, kept reliable with automated guardrails.
-- **Full-stack** — from interfaces to APIs and data, end to end.
-
-### Stack
-
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · C# |
-| **Frontend** | Angular · React · Vite |
-| **Backend** | Node.js · .NET |
-| **Quality** | Vitest · Playwright · CI/CD |
-| **AI** | LLMs · AI agents · MCP |
-
-### Now
-
-Learning, building and sharing around applied AI and software architecture.
-
-### Principles
-
-```text
-Simple over clever.
-Tested over assumed.
-Shipped over perfect.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg" />
+  <img src="assets/now-light.svg" alt="Now: learning, building and sharing around applied AI and software architecture. Principles: simple over clever, tested over assumed, shipped over perfect." width="100%" />
+</picture>
